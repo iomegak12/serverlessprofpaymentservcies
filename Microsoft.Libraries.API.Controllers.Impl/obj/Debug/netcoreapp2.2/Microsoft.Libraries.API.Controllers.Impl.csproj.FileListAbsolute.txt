@@ -1,0 +1,16 @@
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.csprojAssemblyReference.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.csproj.CoreCompileInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.AssemblyInfoInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.AssemblyInfo.cs
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.csproj.CopyComplete
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Impl.pdb

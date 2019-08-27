@@ -1,0 +1,16 @@
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.csprojAssemblyReference.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.csproj.CoreCompileInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.AssemblyInfoInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.AssemblyInfo.cs
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.csproj.CopyComplete
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Impl.pdb

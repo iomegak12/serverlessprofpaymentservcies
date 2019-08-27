@@ -1,0 +1,8 @@
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.csproj.CoreCompileInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.AssemblyInfoInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.AssemblyInfo.cs
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Business.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Business.Interfaces.pdb

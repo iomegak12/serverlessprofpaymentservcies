@@ -1,0 +1,12 @@
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.csprojAssemblyReference.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.AssemblyInfoInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.AssemblyInfo.cs
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.csproj.CopyComplete
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libaries.DataAccess.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.pdb

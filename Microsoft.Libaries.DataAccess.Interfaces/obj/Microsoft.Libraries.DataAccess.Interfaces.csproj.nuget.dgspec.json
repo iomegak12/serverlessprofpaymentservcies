@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libaries.DataAccess.Interfaces\\Microsoft.Libraries.DataAccess.Interfaces.csproj": {}
+  },
+  "projects": {
+    "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libaries.DataAccess.Interfaces\\Microsoft.Libraries.DataAccess.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libaries.DataAccess.Interfaces\\Microsoft.Libraries.DataAccess.Interfaces.csproj",
+        "projectName": "Microsoft.Libraries.DataAccess.Interfaces",
+        "projectPath": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libaries.DataAccess.Interfaces\\Microsoft.Libraries.DataAccess.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\iomeg\\.nuget\\packages\\",
+        "outputPath": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libaries.DataAccess.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iomeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libraries.Models\\Microsoft.Libraries.Models.csproj": {
+                "projectPath": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libraries.Models\\Microsoft.Libraries.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libraries.Models\\Microsoft.Libraries.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libraries.Models\\Microsoft.Libraries.Models.csproj",
+        "projectName": "Microsoft.Libraries.Models",
+        "projectPath": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libraries.Models\\Microsoft.Libraries.Models.csproj",
+        "packagesPath": "C:\\Users\\iomeg\\.nuget\\packages\\",
+        "outputPath": "C:\\000-Serverless\\Demonstrations\\PaymentInfoServices\\Microsoft.Libraries.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iomeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

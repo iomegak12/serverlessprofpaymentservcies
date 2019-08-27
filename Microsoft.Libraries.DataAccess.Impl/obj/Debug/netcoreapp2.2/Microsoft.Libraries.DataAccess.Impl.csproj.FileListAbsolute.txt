@@ -1,0 +1,14 @@
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Interfaces.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.csprojAssemblyReference.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.csproj.CoreCompileInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.AssemblyInfoInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.AssemblyInfo.cs
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.csproj.CopyComplete
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.DataAccess.Impl\obj\Debug\netcoreapp2.2\Microsoft.Libraries.DataAccess.Impl.pdb

@@ -1,0 +1,8 @@
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\bin\Debug\netcoreapp2.2\Microsoft.Libraries.Models.pdb
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Models.csproj.CoreCompileInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Models.AssemblyInfoInputs.cache
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Models.AssemblyInfo.cs
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Models.dll
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.Models\obj\Debug\netcoreapp2.2\Microsoft.Libraries.Models.pdb
