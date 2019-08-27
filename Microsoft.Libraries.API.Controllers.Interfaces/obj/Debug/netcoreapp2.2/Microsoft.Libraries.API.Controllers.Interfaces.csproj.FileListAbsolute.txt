@@ -1,11 +1,10 @@
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.deps.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.runtimeconfig.json
+C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.runtimeconfig.dev.json
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.dll
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.pdb
-C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
-C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.csproj.CoreCompileInputs.cache
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.AssemblyInfoInputs.cache
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.AssemblyInfo.cs
-C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.csproj.CopyComplete
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.dll
 C:\000-Serverless\Demonstrations\PaymentInfoServices\Microsoft.Libraries.API.Controllers.Interfaces\obj\Debug\netcoreapp2.2\Microsoft.Libraries.API.Controllers.Interfaces.pdb

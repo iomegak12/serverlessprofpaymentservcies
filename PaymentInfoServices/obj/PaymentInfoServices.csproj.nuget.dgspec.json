@@ -112,9 +112,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Core": {
+            "Microsoft.AspNetCore.App": {
               "target": "Package",
-              "version": "[2.2.5, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -170,6 +170,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
